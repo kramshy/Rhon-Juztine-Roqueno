@@ -1,4 +1,4 @@
-<h2 align="left">Wazzup mthrfckr 👋</h2>
+<h2 align="left">Hello Everyone! 👋</h2>
 
 
 <img align="right" height="150" src="https://media.tenor.com/bBuGDLwEk1UAAAAM/cool-deal-with-it.gif"  />
